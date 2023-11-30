@@ -1,0 +1,5 @@
+0 lelong 0x0d01f1f0 Dolphin FIFO log
+>0x04 lelong x v%u
+>0x44 lelong x \b, %u frame(s)
+>0x48 lelong 0 \b, GameCube
+>0x48 lelong 1 \b, Wii
